@@ -4,6 +4,18 @@
 
 This repository contains description and examples for the DAQC VQE challenge for the Womanium Hackathon 2022.
 
+
+## Solution
+
+### <a href = https://github.com/Gaurang-Belekar/iqm-academy-womanium-hackathon-DAQC-VQE/blob/main/IQM-Hack-Solution.ipynb> Solution File </a>
+
+The  Solution's algorithm run's as follows:
+
+1. We will initialise the state of the 2 qubit system.
+2. Applying the anazte followed by Analog blog to give an evolved system for set of parameters.
+3. Later to this we execute the SPSA optimizer to get the eigenvalue.
+4. Repeat the appending the circuit through step 2 till the delta reference percentage is very less. (For the H2_op we are getting approximately 3% of delta change from reference).
+
 ## Summary
 
 This task is to develop a new VQE ansatz based on the digital-analog quantum computing (DAQC) framework. The ansatz will combine analog evolution of the processor hamiltonian with single qubit gates placed at the right time intervals. The model has potential to be “more hardware efficient” than typical hardware efficient ansätze.
