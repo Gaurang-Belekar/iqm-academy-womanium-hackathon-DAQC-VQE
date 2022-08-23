@@ -7,6 +7,7 @@ This repository contains description and examples for the DAQC VQE challenge for
 ## Team Details
 
 Name : Quantum@iiitdwd
+
 Team Members : 1. Dr. Aswath Babu ( Discord: aswath#5478; GitHub id: aswathbabu)
                2. Gaurang Belekar ( Discord: Rakelebgnaruag#2211; GitHub id: Gaurang-Belekar)
                
